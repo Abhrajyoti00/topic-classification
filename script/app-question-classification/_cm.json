@@ -13,6 +13,15 @@
     },
     {
       "tags": "get,preprocessed,dataset,go,qa,question-topic"
+    },
+    {
+      "tags": "get,generic-python-lib,_pandas"
+    },
+    {
+      "tags": "get,generic-python-lib,_tqdm"
+    },
+    {
+      "tags": "get,generic-python-lib,_sklearn"
     }
   ],
   "post_deps": [
